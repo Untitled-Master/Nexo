@@ -1,5 +1,5 @@
 # Nexo
-
+![Nexo Startup](./Screenshot 2024-10-25 025854.png)
 Nexo is a simple Python-based app that interacts with Firebase Realtime Database to listen for data changes and send new events to the database. It features a dynamic progress bar on startup and allows users to input event data, which is then sent to the Firebase database.
 
 ## Features
